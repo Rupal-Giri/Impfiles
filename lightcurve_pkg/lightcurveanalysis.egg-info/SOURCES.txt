@@ -1,0 +1,8 @@
+setup.py
+lightcurveanalysis/__init__.py
+lightcurveanalysis/plotting.py
+lightcurveanalysis.egg-info/PKG-INFO
+lightcurveanalysis.egg-info/SOURCES.txt
+lightcurveanalysis.egg-info/dependency_links.txt
+lightcurveanalysis.egg-info/requires.txt
+lightcurveanalysis.egg-info/top_level.txt
